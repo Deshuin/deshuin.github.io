@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://deshuin.github.io</id>
     <title>Deshuin&apos;s Blog</title>
-    <updated>2023-11-10T10:47:24.169Z</updated>
+    <updated>2023-11-10T11:02:41.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://deshuin.github.io"/>
     <link rel="self" href="https://deshuin.github.io/atom.xml"/>
@@ -10,6 +10,75 @@
     <logo>https://deshuin.github.io/images/avatar.png</logo>
     <icon>https://deshuin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Deshuin&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[公考备考指南]]></title>
+        <id>https://deshuin.github.io/post/gong-kao-bei-kao-zhi-nan/</id>
+        <link href="https://deshuin.github.io/post/gong-kao-bei-kao-zhi-nan/">
+        </link>
+        <updated>2023-11-10T10:49:44.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="一-行测">一、行测</h1>
+<h2 id="1-行测题型">1. 行测题型</h2>
+<figure data-type="image" tabindex="1"><img src="https://deshuin.github.io/post-images/1699614095414.png" alt="" loading="lazy"></figure>
+<h2 id="2-行测作答策略">2. 行测作答策略</h2>
+<ol>
+<li>言语理解与表达、判断推理、资料分析，先做自己擅长的题型，顺序不唯一</li>
+<li>预留5+分钟做数量，挑2一4道简单题，剩下的直接蒙，蒙未出现的选项</li>
+<li>常识可以最后做，直接涂卡，不会的直接蒙，不犹豫</li>
+</ol>
+<h2 id="3-行测备考核心">3. 行测备考核心</h2>
+<ol>
+<li>【第一类】片段阅读、文章阅读、逻辑判断、资料分析：建立知识框架，明确核心考点、系统学习</li>
+<li>【第二类】图形推理、类比推理、定义判断：掌握常考规律，坚持刷题提升敏感度</li>
+<li>【第三类】数量：建立知识框架，明确核心考点、系统学习</li>
+<li>【第四类】常识判断、选词填空：积累知识，拓宽知识面和词语储备</li>
+</ol>
+<h2 id="4-行测备考需要做的6件事情">4. 行测备考需要做的6件事情</h2>
+<ol>
+<li>读：最新政策方针、评论员文章、习近平讲话。</li>
+<li>背：资料分析公式、高频成语。</li>
+<li>算：基本计算能力、速算技巧。</li>
+<li>学：基础知识、高频考点、解题方法</li>
+<li>练：多维度刷题、针对性刷题，做题习惯，强优补弱。</li>
+<li>模：限时实战、全真模拟、做题策略。</li>
+</ol>
+<h1 id="二-申论">二、申论</h1>
+<h2 id="1-申论备考十大事项及具体任务">1. 申论备考十大事项及具体任务</h2>
+<ol>
+<li>学“习思想”“二十大”
+<ul>
+<li>读完《习近平新时代中国特色社会主思想学习纲要》</li>
+<li>熟读习近平这一年出访地的重要表述：</li>
+<li>熟读习近平这一年点赞的人物：</li>
+<li>熟读习近平这一年重要的讲话：</li>
+<li>熟读人民日报那些与习思想、”二十大”相关连载评论：</li>
+</ul>
+</li>
+<li>精做山东真题：《山东申论近三年题目》，反复做3遍；</li>
+<li>精学五大题型：五大题型作题方法，每种题型精炼至少20道：</li>
+<li>训练阅读敏感：每天至少阅读6000字文章材料：</li>
+<li>积累实务方法：积累基层实务处理方法，学会20个经典问题处理案例：</li>
+<li>掌握分析能力：掌握多角度分析能力，每天看新闻评论类文章至少一篇：</li>
+<li>沉淀案例素材：沉淀常见领域例证素材，每类每领域不少于3个典型案例；</li>
+<li>储备官方表述：储备百个以上官方表述词组短语，训练规范精准表达；</li>
+<li>严控作答速度：接受系统化限时训练至少21天：</li>
+<li>优化卷面书写：每天定时按照正楷字体练字。</li>
+</ol>
+<h1 id="三-其他">三、其他</h1>
+<h2 id="1-时政新闻类网站汇总">1. 时政新闻类网站汇总</h2>
+<ul>
+<li><a href="http://www.qstheory.cn/">思想建党 理论强党-求是网</a></li>
+<li><a href="http://paper.people.com.cn/rmrb">人民日报-人民网</a></li>
+<li><a href="http://opinion.people.com.cn/">人民网评观点-人民网</a></li>
+<li><a href="http://cpc.people.com.cn/">中国共产党新闻网</a></li>
+<li><a href="http://www.xinhuanet.com/comments/index.html">新华网评-新华网</a></li>
+<li><a href="http://www.news.cn/politics/xxjxs/index.htm">学习进行时-新华网</a></li>
+</ul>
+<h2 id="2-常识">2. 常识</h2>
+<h2 id="3-经济">3. 经济</h2>
+<h2 id="4-马哲">4. 马哲</h2>
+<h2 id="5-法律">5. 法律</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全国法学一级学科博士点院校汇总]]></title>
         <id>https://deshuin.github.io/post/quan-guo-fa-xue-yi-ji-xue-ke-bo-shi-dian-yuan-xiao-hui-zong/</id>
@@ -246,19 +315,6 @@ kwm的强度一般都是很大的，所以无论是投递简历还是接到offer
 <p>海问的三大核心业务是证券业务、并购与公司业务、争议解决。若再进一步进行细分，则涵盖了证券发行、并购、私募股权投资、私募基金设立、外商直接投资、房地产、银行贷款和项目融资、反垄断和竞争法、娱乐和媒体法、知识产权、税法、争议解决和公司日常业务等众多领域。</p>
 <p>海问分为短期实习生和长期实习生。短期实习生一般是非应届、没有留用打算的同学申请的，如果想要留用的话，可以转长期实习生；长期实习生签的协议是六个月及以上，可能有留用机会。短期实习生中还有分为包括一般的短期实习生和项目实习生。对所有实习生而言，都是实习生池制度，即所有律师、合伙人都可以给你指派工作。</p>
 <p>实习生池制度，让实习生不固定地从事某一方向业务。根据项目的安排，这样的工作方式可以使实习生在短期内和多名律师进行接触，也可以参与到更多类型的项目中。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[业务领域突出：精品所]]></title>
-        <id>https://deshuin.github.io/post/ye-wu-ling-yu-tu-chu-jing-pin-suo/</id>
-        <link href="https://deshuin.github.io/post/ye-wu-ling-yu-tu-chu-jing-pin-suo/">
-        </link>
-        <updated>2023-11-07T08:11:37.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>在目前的法律市场上，精品所的概念被放大和拓宽了，一些规模较小、人员较少的律所也标榜自己是所谓“精品所”，这实际上违背了概念的初衷。精品所的最初意义是，在中国的合伙人较少、办公室较少但业务非常突出的律师事务所。许多律所只达到了“合伙人少，办公室小”，却没有做到“某领域业务非常突出”。</p>
-</blockquote>
-<p>根据各大榜单，我整理了以下可以关注的精品所名单（仅为参考，不提供专业意见）：<br>
-<img src="https://deshuin.github.io/post-images/1699603976038.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
